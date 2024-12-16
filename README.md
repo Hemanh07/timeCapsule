@@ -104,6 +104,6 @@ We thank the following people for their contributions to this project:
 For any inquiries or feedback, reach out to:
 
 - **Harsith S**
-- **Email**: [23z161@psgitech.ac.in](mailto:23z116@psgitech.ac.in)
+- **Email**: [23z116@psgitech.ac.in](mailto:23z116@psgitech.ac.in)
 - **GitHub**: [Harsith2k5](https://github.com/Harsith2k5)
 - **Website**: [Rizen Torque Website](https://rizentorque-8fc4f.web.app)
