@@ -2,10 +2,6 @@
 
 # Website Name - Rizen Torque
 
-## Note
-
-> "For API Calls and Sending Email, Subscription is Required so backend servers did not get linked in firebase hosting.
-
 ## Description
 > "The Rizen Torque is an innovative application designed to empower users to reflect on their present lives and connect with their future selves. This platform allows users to write heartfelt letters, set a delivery date, and optionally attach photos or videos to capture memories vividly. With advancements in digital technology, the ability to time-capsule thoughts and emotions in an automated manner has become more feasible and accessible. This project aims to offer an intuitive and secure interface for creating and delivering personalized time capsules through email."
 
@@ -61,12 +57,12 @@
 - Hugging Face API Key (for the AI chat functionality).
 
 ### Steps to run the project
-- Using Firebase:
+- 1.Using Firebase: (Make sure to use the correct port-numbers with respect to your machine for backend connection)
   - Make sure to run the files under /src/backend (Ensure express is installed)
     - Server.js
     - In a new terminal, run Mistral.js
   - Then you can access the app using the given firebase url
-- Via code
+- 2.Via code
   - Make sure to run the files under /src/backend (Ensure express is installed)
     - Server.js
     - In a new terminal, run Mistral.js
