@@ -23,6 +23,11 @@
 ---
 
 ## Features
+- **Bonus points criteria implemented**
+  Submitting a live hosted website. ✓
+  Making use of Google fonts ✓
+  Google icons ✓
+  Material UI ✓
 
 - **Time Capsule Emailing** : <br>
     Users can send emails to their future selves, scheduled for delivery at a later time,
