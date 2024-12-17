@@ -55,6 +55,7 @@
 - npm (comes with Node.js) or yarn for managing dependencies.
 - Gmail API Access or SMTP server credentials (for Nodemailer email functionality).
 - Hugging Face API Key (for the AI chat functionality).
+- Install the node modules by running npm install
 
 ### Steps to run the project
 - 1.Using Firebase: (Make sure to use the correct port-numbers with respect to your machine for backend connection)
